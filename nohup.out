@@ -1,0 +1,1361 @@
+info: socket.io started
+Express server listening on port 4000 in development mode
+debug: client authorized
+info: handshake authorized y9kB1ADc_rv8XoYerhIg
+debug: setting request GET /socket.io/1/websocket/y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+user connected
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized OJXJD4C4k0d_e3lCrhIh
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+[90mGET / [32m200 [90m10ms - 951[0m
+[90mGET /stylesheets/style.css [32m200 [90m5ms - 110[0m
+debug: served static content /socket.io.js
+[90mGET /js/libs/jquery.js [32m200 [90m3ms - 90.46kb[0m
+[90mGET /js/main.js [32m200 [90m1ms - 1.59kb[0m
+debug: client authorized
+info: handshake authorized z0_PU7rr7xCVbsT8rhIi
+debug: setting request GET /socket.io/1/websocket/z0_PU7rr7xCVbsT8rhIi
+debug: set heartbeat interval for client z0_PU7rr7xCVbsT8rhIi
+warn: websocket connection invalid
+info: transport end (undefined)
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: cleared heartbeat interval for client z0_PU7rr7xCVbsT8rhIi
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678674867
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+user connected
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678675517
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678677052
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: xhr-polling closed due to exceeded duration
+debug: emitting heartbeat for client y9kB1ADc_rv8XoYerhIg
+debug: websocket writing 2::
+debug: set heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678697728
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client y9kB1ADc_rv8XoYerhIg
+debug: set heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+info: transport end (socket end)
+debug: set close timeout for client y9kB1ADc_rv8XoYerhIg
+debug: cleared close timeout for client y9kB1ADc_rv8XoYerhIg
+debug: cleared heartbeat interval for client y9kB1ADc_rv8XoYerhIg
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678718991
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: client authorized
+info: handshake authorized 5zE0RSp6-KXI8z4hrhIj
+debug: setting request GET /socket.io/1/websocket/5zE0RSp6-KXI8z4hrhIj
+debug: set heartbeat interval for client 5zE0RSp6-KXI8z4hrhIj
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+user connected
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678740644
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: emitting heartbeat for client 5zE0RSp6-KXI8z4hrhIj
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 5zE0RSp6-KXI8z4hrhIj
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 5zE0RSp6-KXI8z4hrhIj
+debug: set heartbeat interval for client 5zE0RSp6-KXI8z4hrhIj
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678762146
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+info: transport end (socket end)
+debug: set close timeout for client 5zE0RSp6-KXI8z4hrhIj
+debug: cleared close timeout for client 5zE0RSp6-KXI8z4hrhIj
+debug: cleared heartbeat interval for client 5zE0RSp6-KXI8z4hrhIj
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized 6nOPsMIs3uif0CfKrhIk
+debug: setting request GET /socket.io/1/websocket/6nOPsMIs3uif0CfKrhIk
+debug: set heartbeat interval for client 6nOPsMIs3uif0CfKrhIk
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+user connected
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678783394
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: client authorized
+info: handshake authorized INfMU_rIa8QY_WL6rhIl
+debug: emitting heartbeat for client 6nOPsMIs3uif0CfKrhIk
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: set heartbeat interval for client 6nOPsMIs3uif0CfKrhIk
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/z0_PU7rr7xCVbsT8rhIi?t=1365678804585
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client z0_PU7rr7xCVbsT8rhIi
+[90mGET / [32m200 [90m5ms - 951[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+debug: served static content /socket.io.js
+[90mGET /js/libs/jquery.js [36m304 [90m0ms[0m
+[90mGET /js/main.js [36m304 [90m1ms[0m
+debug: client authorized
+info: handshake authorized -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client z0_PU7rr7xCVbsT8rhIi
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/websocket/-43b6KgSTZk5snstrhIm
+debug: set heartbeat interval for client -43b6KgSTZk5snstrhIm
+warn: websocket connection invalid
+info: transport end (undefined)
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: cleared heartbeat interval for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client 6nOPsMIs3uif0CfKrhIk
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: set heartbeat interval for client 6nOPsMIs3uif0CfKrhIk
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678834307
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+user connected
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678834956
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678836181
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client 6nOPsMIs3uif0CfKrhIk
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: set heartbeat interval for client 6nOPsMIs3uif0CfKrhIk
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678857081
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client 6nOPsMIs3uif0CfKrhIk
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: set heartbeat interval for client 6nOPsMIs3uif0CfKrhIk
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678878284
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+info: transport end (socket end)
+debug: set close timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: cleared close timeout for client 6nOPsMIs3uif0CfKrhIk
+debug: cleared heartbeat interval for client 6nOPsMIs3uif0CfKrhIk
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: fired close timeout for client z0_PU7rr7xCVbsT8rhIi
+info: transport end (close timeout)
+debug: discarding transport
+debug: client authorized
+info: handshake authorized RgnkUSglgr9v7fAmrhIn
+debug: client authorized
+info: handshake authorized wTPq96FocHxvjTNZrhIo
+debug: setting request GET /socket.io/1/websocket/RgnkUSglgr9v7fAmrhIn
+debug: set heartbeat interval for client RgnkUSglgr9v7fAmrhIn
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+user connected
+debug: setting request GET /socket.io/1/websocket/wTPq96FocHxvjTNZrhIo
+debug: set heartbeat interval for client wTPq96FocHxvjTNZrhIo
+warn: websocket connection invalid
+info: transport end (undefined)
+debug: set close timeout for client wTPq96FocHxvjTNZrhIo
+debug: cleared close timeout for client wTPq96FocHxvjTNZrhIo
+debug: cleared heartbeat interval for client wTPq96FocHxvjTNZrhIo
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/wTPq96FocHxvjTNZrhIo?t=1365678898507
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client wTPq96FocHxvjTNZrhIo
+user connected
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678899481
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/wTPq96FocHxvjTNZrhIo?t=1365678899757
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+debug: set close timeout for client wTPq96FocHxvjTNZrhIo
+debug: discarding transport
+debug: cleared close timeout for client wTPq96FocHxvjTNZrhIo
+debug: setting request GET /socket.io/1/xhr-polling/wTPq96FocHxvjTNZrhIo?t=1365678900863
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client wTPq96FocHxvjTNZrhIo
+debug: emitting heartbeat for client RgnkUSglgr9v7fAmrhIn
+debug: websocket writing 2::
+debug: set heartbeat timeout for client RgnkUSglgr9v7fAmrhIn
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client RgnkUSglgr9v7fAmrhIn
+debug: set heartbeat interval for client RgnkUSglgr9v7fAmrhIn
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678920663
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client wTPq96FocHxvjTNZrhIo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/wTPq96FocHxvjTNZrhIo?t=1365678922502
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client wTPq96FocHxvjTNZrhIo
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"track-channel","args":[{"channel":"track-channel","event":"bus-moved","data":"{\"speed\": \"66\", \"time\": \"2013-04-11 16:45:28\", \"lon\": 12.8980033333, \"address\": \"{\\\"address\\\": \\\"G-02, Rose Garden Road, JP Nagar 5th Phase, Bangalore, Karnataka 560078, India\\\"}\", \"lat\": 12.8980033333, \"bus_id\": \"1\"}"}]}
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: websocket writing 5:::{"name":"track-channel","args":[{"channel":"track-channel","event":"bus-moved","data":"{\"speed\": \"66\", \"time\": \"2013-04-11 16:45:28\", \"lon\": 12.8980033333, \"address\": \"{\\\"address\\\": \\\"G-02, Rose Garden Road, JP Nagar 5th Phase, Bangalore, Karnataka 560078, India\\\"}\", \"lat\": 12.8980033333, \"bus_id\": \"1\"}"}]}
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"track-channel","args":[{"channel":"track-channel","event":"bus-moved","data":"{\"speed\": \"66\", \"time\": \"2013-04-11 16:45:28\", \"lon\": 12.8980033333, \"address\": \"{\\\"address\\\": \\\"G-02, Rose Garden Road, JP Nagar 5th Phase, Bangalore, Karnataka 560078, India\\\"}\", \"lat\": 12.8980033333, \"bus_id\": \"1\"}"}]}
+debug: set close timeout for client wTPq96FocHxvjTNZrhIo
+[90mPOST /post/ [32m200 [90m4ms[0m
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678930493
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/wTPq96FocHxvjTNZrhIo?t=1365678930495
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client wTPq96FocHxvjTNZrhIo
+debug: emitting heartbeat for client RgnkUSglgr9v7fAmrhIn
+debug: websocket writing 2::
+debug: set heartbeat timeout for client RgnkUSglgr9v7fAmrhIn
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client RgnkUSglgr9v7fAmrhIn
+debug: set heartbeat interval for client RgnkUSglgr9v7fAmrhIn
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"track-channel","args":[{"channel":"track-channel","event":"bus-moved","data":"{\"speed\": \"66\", \"time\": \"2013-04-11 16:45:47\", \"lon\": 12.8980033333, \"address\": \"{\\\"address\\\": \\\"G-02, Rose Garden Road, JP Nagar 5th Phase, Bangalore, Karnataka 560078, India\\\"}\", \"lat\": 12.8980033333, \"bus_id\": \"1\"}"}]}
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: websocket writing 5:::{"name":"track-channel","args":[{"channel":"track-channel","event":"bus-moved","data":"{\"speed\": \"66\", \"time\": \"2013-04-11 16:45:47\", \"lon\": 12.8980033333, \"address\": \"{\\\"address\\\": \\\"G-02, Rose Garden Road, JP Nagar 5th Phase, Bangalore, Karnataka 560078, India\\\"}\", \"lat\": 12.8980033333, \"bus_id\": \"1\"}"}]}
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"track-channel","args":[{"channel":"track-channel","event":"bus-moved","data":"{\"speed\": \"66\", \"time\": \"2013-04-11 16:45:47\", \"lon\": 12.8980033333, \"address\": \"{\\\"address\\\": \\\"G-02, Rose Garden Road, JP Nagar 5th Phase, Bangalore, Karnataka 560078, India\\\"}\", \"lat\": 12.8980033333, \"bus_id\": \"1\"}"}]}
+debug: set close timeout for client wTPq96FocHxvjTNZrhIo
+[90mPOST /post/ [32m200 [90m2ms[0m
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678948618
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/wTPq96FocHxvjTNZrhIo?t=1365678948622
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client wTPq96FocHxvjTNZrhIo
+info: transport end (socket end)
+debug: set close timeout for client RgnkUSglgr9v7fAmrhIn
+debug: cleared close timeout for client RgnkUSglgr9v7fAmrhIn
+debug: cleared heartbeat interval for client RgnkUSglgr9v7fAmrhIn
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: client authorized
+info: handshake authorized 6UZuYxFjnaDh6JOArhIp
+debug: client authorized
+info: handshake authorized WvSQzK0qItsq41ourhIq
+debug: setting request GET /socket.io/1/websocket/6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+user connected
+debug: setting request GET /socket.io/1/websocket/WvSQzK0qItsq41ourhIq
+debug: set heartbeat interval for client WvSQzK0qItsq41ourhIq
+warn: websocket connection invalid
+info: transport end (undefined)
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: cleared heartbeat interval for client WvSQzK0qItsq41ourhIq
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client wTPq96FocHxvjTNZrhIo
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365678969168
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+user connected
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678969814
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365678970425
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365678971635
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365678991017
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365678993161
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679012514
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679014381
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: fired close timeout for client wTPq96FocHxvjTNZrhIo
+info: transport end (close timeout)
+debug: discarding transport
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679034017
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679035554
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679055317
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679056775
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679076705
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679078268
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679097922
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679099470
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679119329
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679120684
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679140924
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679142459
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679162426
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679163665
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679183936
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679184882
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679205145
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679206091
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679226429
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679227596
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679247828
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679249056
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679269049
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679270461
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679290836
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679292078
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679312049
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679313284
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679333537
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679334871
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679355044
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679356297
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679378083
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679386374
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client 6UZuYxFjnaDh6JOArhIp
+debug: websocket writing 2::
+debug: set heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: set heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/WvSQzK0qItsq41ourhIq?t=1365679399586
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client WvSQzK0qItsq41ourhIq
+info: transport end (socket end)
+debug: set close timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: cleared close timeout for client 6UZuYxFjnaDh6JOArhIp
+debug: cleared heartbeat interval for client 6UZuYxFjnaDh6JOArhIp
+debug: discarding transport
+debug: served static content /socket.io.js
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: client authorized
+info: handshake authorized Jgl7512YJBtztuwMrhIr
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679407594
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: setting request GET /socket.io/1/websocket/Jgl7512YJBtztuwMrhIr
+debug: set heartbeat interval for client Jgl7512YJBtztuwMrhIr
+debug: client authorized for 
+debug: websocket writing 1::
+debug: websocket writing 5:::{"name":"ack","args":[{"status":"Connection Successfull"}]}
+user connected
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client WvSQzK0qItsq41ourhIq
+debug: xhr-polling closed due to exceeded duration
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679428781
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client Jgl7512YJBtztuwMrhIr
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: set heartbeat interval for client Jgl7512YJBtztuwMrhIr
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679449997
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client Jgl7512YJBtztuwMrhIr
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: set heartbeat interval for client Jgl7512YJBtztuwMrhIr
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679471573
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: fired close timeout for client WvSQzK0qItsq41ourhIq
+info: transport end (close timeout)
+debug: discarding transport
+debug: emitting heartbeat for client Jgl7512YJBtztuwMrhIr
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: set heartbeat interval for client Jgl7512YJBtztuwMrhIr
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679492973
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client Jgl7512YJBtztuwMrhIr
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: set heartbeat interval for client Jgl7512YJBtztuwMrhIr
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679514172
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679535676
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client Jgl7512YJBtztuwMrhIr
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: set heartbeat interval for client Jgl7512YJBtztuwMrhIr
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client -43b6KgSTZk5snstrhIm
+debug: xhr-polling closed due to exceeded duration
+debug: setting request GET /socket.io/1/xhr-polling/-43b6KgSTZk5snstrhIm?t=1365679556875
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client -43b6KgSTZk5snstrhIm
+debug: emitting heartbeat for client Jgl7512YJBtztuwMrhIr
+debug: websocket writing 2::
+debug: set heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: got heartbeat packet
+debug: cleared heartbeat timeout for client Jgl7512YJBtztuwMrhIr
+debug: set heartbeat interval for client Jgl7512YJBtztuwMrhIr
+debug: clearing poll timeout
+
+events.js:69
+        throw arguments[1]; // Unhandled 'error' event
+                       ^
+Error: socket hang up
+    at createHangUpError (http.js:1383:15)
+    at ServerResponse.OutgoingMessage._writeRaw (http.js:499:26)
+    at ServerResponse.OutgoingMessage._send (http.js:466:15)
+    at ServerResponse.OutgoingMessage.write (http.js:770:16)
+    at XHRPolling.doWrite (/var/www/html/ali/socket/node_modules/socket.io/lib/transports/xhr-polling.js:67:17)
+    at XHRPolling.HTTPPolling.write (/var/www/html/ali/socket/node_modules/socket.io/lib/transports/http-polling.js:132:8)
+    at XHRPolling.Transport.packet (/var/www/html/ali/socket/node_modules/socket.io/lib/transport.js:515:15)
+    at null.<anonymous> (/var/www/html/ali/socket/node_modules/socket.io/lib/transports/http-polling.js:79:12)
+    at Timer.listOnTimeout [as ontimeout] (timers.js:110:15)
