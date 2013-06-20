@@ -57,6 +57,7 @@ app.post('/post/', function(request, response){
 		var secret=request.body.secret;
 		socketdjango.get_appsecret(apikey,function(results) {
     			console.log(results);
+    			results=JSON.parse(results);
     			console.log("result status="+results.status);
 			//check if apikey exists and secret is valid for that apikey..only then emit
   			if(results.status == "success") {
