@@ -8,7 +8,8 @@ exports.get_appsecret = function(apikey,callback) {
 	    apikey: apikey,
 	  }
 	}, function(error, response, body) {
-	  console.log(body);
+	  console.log("body="+body);
+	  console.log("response="+response)
 	  callback(body)
 	});
 
