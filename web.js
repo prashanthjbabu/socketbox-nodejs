@@ -56,14 +56,15 @@ app.post('/post/', function(request, response){
 		var apikey=request.body.apikey;
 		var secret=request.body.secret;
 		socketdjango.get_appsecret(apikey,function(results) {
-    			console.log("secret="+results.length);
+    			console.log("result length="+results.length);
 			//check if apikey exists and secret is valid for that apikey..only then emit
   			if(results.length > 0) {
 				channel=apikey+"-"+channel;
 				//console.log("CHANNEL="+channel);
 				//console.log("APIKEY="+apikey);
 				//console.log("SECRET="+secret);
-				if(results[0].secret == secret )
+				console.log(results.secret)
+				if(results.secret == secret )
 				{
 					io.sockets.emit(channel, { 
 						channel: channel,
