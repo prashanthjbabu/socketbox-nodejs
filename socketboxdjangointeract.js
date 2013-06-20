@@ -2,7 +2,7 @@ exports.get_appsecret = function(apikey,callback) {
 	console.log("inside get_appsecret apikey ="+apikey);
 	var request = require("request");
 	request({
-	  uri: "http://socketbox.pesseacm.org",
+	  uri: "http://socketbox.pesseacm.org/socketbox/app/secret",
 	  method: "POST",
 	  form: {
 	    apikey: apikey,
