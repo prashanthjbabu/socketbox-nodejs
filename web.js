@@ -9,7 +9,7 @@ var express = require('express'),
 // Configuration
 
 app.configure(function() {
-	app.set('port', process.env.PORT || 4000);
+	app.set('port', 8000);
 	app.set('views', __dirname + '/views');
 	app.set('view engine', 'ejs');
 	app.use(express.favicon());
@@ -48,14 +48,14 @@ response.end("SOCKEBOX SERVER");
 
 
 app.post('/post/', function(request, response){
-		var db_helper = require("./dbstuff.js");
-
+		//var db_helper = require("./dbstuff.js");
+		var socketdjango=require("./socketboxdjangointeract.js");
 		var data = request.body.data;
 		var channel = request.body.channel;
 		var event = request.body.event;
 		var apikey=request.body.apikey;
 		var secret=request.body.secret;
-		db_helper.get_appsecret(apikey,function(results) {
+		socketdjango.get_appsecret(apikey,function(results) {
     			console.log("secret="+results.length);
 			//check if apikey exists and secret is valid for that apikey..only then emit
   			if(results.length > 0) {
