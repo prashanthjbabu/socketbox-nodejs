@@ -72,7 +72,7 @@ app.post('/post/', function(request, response){
 						console.log(resp);
 						resp=JSON.parse(resp);
 						console.log("resp status="+resp.status);		
-					}
+					});
 					var jsonobject= { };
 					jsonobject.status="success";
 					response.end(JSON.stringify(jsonobject));
