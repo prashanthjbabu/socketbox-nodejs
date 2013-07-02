@@ -75,20 +75,20 @@ app.post('/post/', function(request, response){
 					});
 					var jsonobject= { };
 					jsonobject.status="success";
-					response.write(JSON.stringify(jsonobject));
+					response.end(JSON.stringify(jsonobject));
 				}
 				else
 				{
 					var jsonobject= { };
 					jsonobject.status="valid-apikey-incorrect-secret";
-					response.write(JSON.stringify(jsonobject));
+					response.end(JSON.stringify(jsonobject));
 				}
 			}
 			else
 			{
 					var jsonobject= { };
 					jsonobject.status="invalid-api-key";
-					response.write(JSON.stringify(jsonobject));
+					response.end(JSON.stringify(jsonobject));
 			}
 		});
 });
