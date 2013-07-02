@@ -62,11 +62,17 @@ app.post('/post/', function(request, response){
 				console.log(results.secret)
 				if(results.secret == secret )
 				{
+					//all set , shoot the data
 					io.sockets.emit(channel, { 
 						channel: channel,
 						event: event,
 						data: data
 					});
+					socketdjango.app_stats(apikey,secret,function(resp) {
+						console.log(resp);
+						resp=JSON.parse(resp);
+						console.log("resp status="+resp.status);		
+					}
 					var jsonobject= { };
 					jsonobject.status="success";
 					response.end(JSON.stringify(jsonobject));

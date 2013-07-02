@@ -12,6 +12,22 @@ exports.get_appsecret = function(apikey,callback) {
 	  console.log("response = "+response)
 	  callback(body)
 	});
+}
 
-
+exports.app_stats = function(apikey,secret,callback) {
+	console.log("inside app_stats apikey ="+apikey);
+	console.log("inside app_stats secret ="+secret);
+	var request = require("request");
+	request({
+	  uri: "http://socketbox.pesseacm.org/socketbox/app/stats/",
+	  method: "POST",
+	  form: {
+	    apikey: apikey,
+	    secret : secret,
+	  }
+	}, function(error, response, body) {
+	  console.log("body = "+body);
+	  console.log("response = "+response)
+	  callback(body)
+	});
 }
