@@ -43,7 +43,7 @@ server.listen(app.get('port'), function(){
 
 //app.get('/', routes.index);
 app.get('/',function(request,response){
-response.end("SOCKEBOX SERVER");
+response.end("SOCKETBOX SERVER");
 });
 
 
