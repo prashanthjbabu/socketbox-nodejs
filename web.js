@@ -1,33 +1,32 @@
 var express = require('express'),
 		app = express(),
-		//routes = require('./routes'),
+		routes = require('./routes'),
 		http = require('http'),
 		server = http.createServer(app),
-		io = require('socket.io').listen(server);
-		//path = require('path');
+		io = require('socket.io').listen(server),
+		path = require('path');
 
 // Configuration
 
 app.configure(function() {
 	app.set('port', 8000);
-	/*app.set('views', __dirname + '/views');
+	app.set('views', __dirname + '/views');
 	app.set('view engine', 'ejs');
 	app.use(express.favicon());
 	app.use(express.logger('dev'));
 	app.use(express.bodyParser());
 	app.use(express.methodOverride());
 	app.use(app.router);
-	app.use(express.static(__dirname + '/public'));*/
+	app.use(express.static(__dirname + '/public'));
 });
 
-/*app.configure('development', function() {
+app.configure('development', function() {
 	app.use(express.errorHandler({ dumpExceptions: true, showStack: true }));
 });
 
 app.configure('production', function() {
 	app.use(express.errorHandler());
 });
-*/
 
 // Heroku won't actually allow us to use WebSockets
 // so we have to setup polling instead.
@@ -44,7 +43,7 @@ server.listen(app.get('port'), function(){
 
 //app.get('/', routes.index);
 app.get('/',function(request,response){
-response.end("SOCKETBOX SERVER");
+response.end("SOCKEBOX SERVER");
 });
 
 
