@@ -73,14 +73,26 @@ app.post('/post/', function(request, response){
 						event: event,
 						data: data
 					});
-
-					response.end("DONE");
+					var jsonstr={
+					'status' : 'success'
+					}
+					response.end(jsonstr);
 				}
 				else
-					response.end("VALID APIKEY BUT INCORRECT SECRET");
+				{
+					var jsonstr={
+					'status' : 'valid-apikey-incorrect-secret'
+					}
+					response.end(jsonstr);
+				}
 			}
 			else
-				response.end("INVALID APIKEY");
+			{
+					var jsonstr={
+					'status' : 'invalidapikey'
+					}
+					response.end(jsonstr);
+			}
 		});
 });
 
