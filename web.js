@@ -73,25 +73,22 @@ app.post('/post/', function(request, response){
 						event: event,
 						data: data
 					});
-					var jsonstr={
-					'status' : 'success'
-					}
-					response.end(jsonstr);
+					var jsonobject= { };
+					jsonobject.status="success";
+					response.end(jsonobject);
 				}
 				else
 				{
-					var jsonstr={
-					'status' : 'valid-apikey-incorrect-secret'
-					}
-					response.end(jsonstr);
+					var jsonobject= { };
+					jsonobject.status="valid-apikey-incorrect-secret";
+					response.end(jsonobject);
 				}
 			}
 			else
 			{
-					var jsonstr={
-					'status' : 'invalidapikey'
-					}
-					response.end(jsonstr);
+					var jsonobject= { };
+					jsonobject.status="invalid-api-key";
+					response.end(jsonobject);
 			}
 		});
 });
