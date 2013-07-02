@@ -1,10 +1,10 @@
 var express = require('express'),
 		app = express(),
-		routes = require('./routes'),
+//		routes = require('./routes'),
 		http = require('http'),
 		server = http.createServer(app),
-		io = require('socket.io').listen(server),
-		path = require('path');
+		io = require('socket.io').listen(server);
+//		path = require('path');
 
 // Configuration
 
