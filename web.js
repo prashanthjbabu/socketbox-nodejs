@@ -1,6 +1,6 @@
 var express = require('express'),
 		app = express(),
-		routes = require('./routes'),
+		//routes = require('./routes'),
 		http = require('http'),
 		server = http.createServer(app),
 		io = require('socket.io').listen(server),
@@ -10,14 +10,14 @@ var express = require('express'),
 
 app.configure(function() {
 	app.set('port', 8000);
-	app.set('views', __dirname + '/views');
-	app.set('view engine', 'ejs');
+	//app.set('views', __dirname + '/views');
+	//app.set('view engine', 'ejs');
 	app.use(express.favicon());
 	app.use(express.logger('dev'));
 	app.use(express.bodyParser());
 	app.use(express.methodOverride());
 	app.use(app.router);
-	app.use(express.static(__dirname + '/public'));
+	//app.use(express.static(__dirname + '/public'));
 });
 
 app.configure('development', function() {
