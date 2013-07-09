@@ -2,7 +2,7 @@ exports.get_appsecret = function(apikey,callback) {
 	console.log("inside get_appsecret apikey ="+apikey);
 	var request = require("request");
 	request({
-	  uri: "http://socketbox.pesseacm.org/app/secret/",
+	  uri: "http://socketbox.in/app/secret/",
 	  method: "POST",
 	  form: {
 	    apikey: apikey,
@@ -19,7 +19,7 @@ exports.app_stats = function(apikey,secret,callback) {
 	console.log("inside app_stats secret ="+secret);
 	var request = require("request");
 	request({
-	  uri: "http://socketbox.pesseacm.org/app/stats/",
+	  uri: "http://socketbox.in/app/stats/",
 	  method: "POST",
 	  form: {
 	    apikey: apikey,
